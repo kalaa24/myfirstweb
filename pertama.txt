@@ -1,4 +1,4 @@
-ini baris baru
 ini baris terakhir
 bisa ga ya
 semoga aja sih
+tambah elemen baru
