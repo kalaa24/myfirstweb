@@ -1,1 +1,2 @@
 ini baris pertama gua
+gua tambahin baris kedua
